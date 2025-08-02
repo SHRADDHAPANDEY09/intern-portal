@@ -69,11 +69,11 @@ intern-portal/
    cd backend
    
 2. Install dependencies:
-   npm install
+   'npm install'
 
 3. Start the server:
    node server.js
-4. 
+
 The backend server will run on `http://localhost:4000`
 
 ### Frontend Setup
@@ -103,10 +103,6 @@ The backend server will run on `http://localhost:4000`
 
 
 
-## 🌐 Live Demo
-
-- **Frontend**: https://SHRADDHAPANDEY09.github.io/intern-portal-frontend/
-- **Backend API**: [Add your deployed backend URL here]
 
 ## 🔮 Future Enhancements
 
